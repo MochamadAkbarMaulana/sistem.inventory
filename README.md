@@ -1,2 +1,2 @@
 # sistem.inventory
-ini buat contoh
+Coba coba database
